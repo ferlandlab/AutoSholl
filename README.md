@@ -5,8 +5,10 @@ The compiled version of this algorithm is located under the folder Fiji.app. Sam
 
 Source code is in the folder sourceCode.
 
+If using AutoSholl, please cite: Srinivasan A, Srinivasan A, Ferland RJ. AutoSholl allows for automation of Sholl analysis independent of user tracing. Journal of Neuroscience Methods 331. doi:10.1016/j.jneumeth.2019.108529
+
 If using BranchAnalysis2D/3D, please cite: Srinivasan A, Muñoz Estrada J, Bourgeois JR, Nalwalk J, Pumiglia K, Sheen V, Ferland RJ. BranchAnalysis2D/3D automates morphometry analyses of branching structures. J Neurosci Methods, 294:1-6, 2018.
-If using AutoSholl, please cite: 
+If using AutoSholl, please cite:
 
 Pubmed: https://www.ncbi.nlm.nih.gov/pubmed/29061345 (BranchAnalysis2D/3D)
-Pubmed: (AutoSholl)
+Pubmed: https://www.ncbi.nlm.nih.gov/pubmed/31760060 (AutoSholl)
